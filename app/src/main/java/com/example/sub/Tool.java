@@ -4,7 +4,7 @@ public class Tool {
 
 
     public void hello() {
-        System.out.println("Sub New Branch");
+        System.out.println("Sub New Branch 2");
     }
 
 }
